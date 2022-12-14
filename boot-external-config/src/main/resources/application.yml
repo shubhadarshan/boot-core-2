@@ -1,0 +1,8 @@
+radio:
+  radioType: ultra
+  manufacturer: sony
+  price: ${random.int[500,1000])}
+
+tunner:
+  signalType: beta
+  bandwidth: 3.1
