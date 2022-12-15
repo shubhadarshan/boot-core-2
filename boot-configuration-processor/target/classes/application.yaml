@@ -1,0 +1,8 @@
+book.author: Chetan Bhagath
+book.isbn: 32938
+book.title: Five point someone
+book.publisher: rupa publication
+book.version: ${random.int[1,5]}
+book.price: ${random.int[100,2000]}
+
+publication.publicationHouse: &house

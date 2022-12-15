@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "book",
+      "type": "in.spdev.bean.Book",
+      "sourceType": "in.spdev.bean.Book"
+    }
+  ],
+  "properties": [
+    {
+      "name": "book.author",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.isbn",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.price",
+      "type": "java.lang.Double",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.publication",
+      "type": "in.spdev.bean.Publication",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.publisher",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.title",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.version",
+      "type": "java.lang.Integer",
+      "sourceType": "in.spdev.bean.Book"
+    }
+  ],
+  "hints": []
+}
