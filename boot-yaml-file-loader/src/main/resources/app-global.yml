@@ -1,0 +1,10 @@
+book:
+  authorName: Ravi Bhaskara
+  publicationHouse: Mrs Funny bones
+  bookName: Tales of lies
+  price: 2000
+  availableCountries:
+    - india
+    - USA
+    - UK
+    - UAE

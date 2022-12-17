@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "book",
+      "type": "in.spdev.bean.Book",
+      "sourceType": "in.spdev.bean.Book"
+    }
+  ],
+  "properties": [
+    {
+      "name": "book.author-name",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.available-countries",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.book-name",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.price",
+      "type": "java.lang.Double",
+      "sourceType": "in.spdev.bean.Book"
+    },
+    {
+      "name": "book.publication-house",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Book"
+    }
+  ],
+  "hints": []
+}
