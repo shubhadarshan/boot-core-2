@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "passport",
+      "type": "in.spdev.bean.Passport",
+      "sourceType": "in.spdev.bean.Passport"
+    }
+  ],
+  "properties": [
+    {
+      "name": "passport.expiry-date",
+      "type": "java.util.Date",
+      "sourceType": "in.spdev.bean.Passport"
+    },
+    {
+      "name": "passport.issued-authority",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Passport"
+    },
+    {
+      "name": "passport.issued-date",
+      "type": "java.util.Date",
+      "sourceType": "in.spdev.bean.Passport"
+    },
+    {
+      "name": "passport.passport-holder-name",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Passport"
+    },
+    {
+      "name": "passport.passport-no",
+      "type": "java.lang.String",
+      "sourceType": "in.spdev.bean.Passport"
+    }
+  ],
+  "hints": []
+}
